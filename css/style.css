@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #7298e0;
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #fff;
+}
